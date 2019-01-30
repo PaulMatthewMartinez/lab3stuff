@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/16.1
+vbubble4
+Z0 !s110 1525212774
+!i10b 1
+!s100 ij6TmoW?R7Bdk6iKddnXC2
+IgQEm92fK463?7nRXMMFYg2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/simulation
+w1524873348
+8C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3bub/bubble4.v
+FC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3bub/bubble4.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1525212774.000000
+!s107 C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3bub/bubble4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3bub/bubble4.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vlab3sortp1
+R0
+!i10b 1
+!s100 ?nT`:_fC:C1Yec_A:fkeR0
+I;i:Omj7@9[?dclI];8Kb62
+R1
+R2
+w1524881078
+8C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort2/synthesis/lab3sortp1.v
+FC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort2/synthesis/lab3sortp1.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort2/synthesis/lab3sortp1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort2/synthesis/lab3sortp1.v|
+!i113 1
+R5
+R6
+vseg7
+R0
+!i10b 1
+!s100 R8f^S5?O^z6VEZWV00?Fj3
+I<3mXffF@8E]ZPC?:c]aK?3
+R1
+R2
+w1525127301
+8C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3_7segHEX0/synthesis/seg7.v
+FC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3_7segHEX0/synthesis/seg7.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3_7segHEX0/synthesis/seg7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3_7segHEX0/synthesis/seg7.v|
+!i113 1
+R5
+R6
+vsort4
+R0
+!i10b 1
+!s100 f>ALU`V]a5e9^D=h4A6ZH1
+Iz<_XQ:RZEQ3;NOXTeLVAI1
+R1
+R2
+w1525040022
+8C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort4/sort4.v
+FC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort4/sort4.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort4/sort4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort4/sort4.v|
+!i113 1
+R5
+R6
+vtestgen
+!s110 1525212775
+!i10b 1
+!s100 WDjATf6V>zZJ`<I]1SeAW0
+I3UmddAUZe0]4m^QYOI^J;2
+R1
+R2
+w1524899908
+8C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3testgen/synthesis/testgen.v
+FC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3testgen/synthesis/testgen.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1525212775.000000
+!s107 C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3testgen/synthesis/testgen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3testgen/synthesis/testgen.v|
+!i113 1
+R5
+R6
+vtop
+!s110 1525212773
+!i10b 1
+!s100 n[]Zm4S9H>PF[LBP4amc^0
+IYeefjBM`_ZUg>VGE7L^=R3
+R1
+R2
+w1525137088
+8C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top.v
+FC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top.v
+L0 6
+R3
+r1
+!s85 0
+31
+Z7 !s108 1525212773.000000
+!s107 C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top.v|
+!i113 1
+R5
+R6
+vtop_tb
+R0
+!i10b 1
+!s100 C?4gI]Phlk5YkB?;JX6ch3
+IJ1o4BgZI;fb=1bEE2H>g21
+R1
+R2
+w1525135559
+8C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top_tb.v
+FC:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top_tb.v
+L0 10
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top_tb.v|
+!i113 1
+R5
+R6

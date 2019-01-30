@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'bubin0'
+Slack : -2.931
+TNS   : -5.841
+
+Type  : Slow 1200mV 85C Model Setup 'bubin2'
+Slack : -1.568
+TNS   : -3.109
+
+Type  : Slow 1200mV 85C Model Setup 'bubin1'
+Slack : -1.480
+TNS   : -2.872
+
+Type  : Slow 1200mV 85C Model Hold 'bubin0'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'bubin1'
+Slack : 0.808
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'bubin2'
+Slack : 0.927
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'bubin0'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'bubin1'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'bubin2'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'bubin0'
+Slack : -2.746
+TNS   : -5.471
+
+Type  : Slow 1200mV 0C Model Setup 'bubin2'
+Slack : -1.497
+TNS   : -2.983
+
+Type  : Slow 1200mV 0C Model Setup 'bubin1'
+Slack : -1.419
+TNS   : -2.757
+
+Type  : Slow 1200mV 0C Model Hold 'bubin0'
+Slack : 0.264
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'bubin1'
+Slack : 0.708
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'bubin2'
+Slack : 0.826
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'bubin0'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'bubin1'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'bubin2'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'bubin0'
+Slack : -0.663
+TNS   : -1.321
+
+Type  : Fast 1200mV 0C Model Setup 'bubin2'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'bubin1'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'bubin0'
+Slack : 0.058
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'bubin1'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'bubin2'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'bubin0'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'bubin1'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'bubin2'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------

@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "bubout3",
+					"strict" : false
+				},
+				{
+					"name" : "bubout2",
+					"strict" : false
+				},
+				{
+					"name" : "bubout1",
+					"strict" : false
+				},
+				{
+					"name" : "bubout0",
+					"strict" : false
+				},
+				{
+					"name" : "bubin3",
+					"strict" : false
+				},
+				{
+					"name" : "bubin2",
+					"strict" : false
+				},
+				{
+					"name" : "bubin1",
+					"strict" : false
+				},
+				{
+					"name" : "bubin0",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,50 @@
+C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top.v {1 {vlog -work work -stats=none C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top_tb.v {1 {vlog -work work -stats=none C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3top/synthesis/top_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort4/sort4.v {1 {vlog -work work -stats=none C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort4/sort4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sort4
+
+Top level modules:
+	sort4
+
+} {} {}} C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3bub/bubble4.v {1 {vlog -work work -stats=none C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3bub/bubble4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bubble4
+
+Top level modules:
+	bubble4
+
+} {} {}} C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3_7segHEX0/synthesis/seg7.v {1 {vlog -work work -stats=none C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3_7segHEX0/synthesis/seg7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seg7
+
+Top level modules:
+	seg7
+
+} {} {}} C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3testgen/synthesis/testgen.v {1 {vlog -work work -stats=none C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3testgen/synthesis/testgen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testgen
+
+Top level modules:
+	testgen
+
+} {} {}} C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort2/synthesis/lab3sortp1.v {1 {vlog -work work -stats=none C:/Users/paulm/OneDrive/Documents/lab3stuff/lab3sort2/synthesis/lab3sortp1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab3sortp1
+
+Top level modules:
+	lab3sortp1
+
+} {} {}}
